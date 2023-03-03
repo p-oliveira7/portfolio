@@ -16,6 +16,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Paulo Isidoro
 
-### Linkedin: https://www.linkedin.com/paulo-oliveira7
+### Linkedin: https://www.linkedin.com/in/paulo-oliveira7/
 
 
